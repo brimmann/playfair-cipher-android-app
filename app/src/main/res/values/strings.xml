@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Playfair</string>
+    <string name="button_text_encrypt">Encrypt</string>
+    <string name="pro">Pro</string>
+    <string name="share">Share</string>
+    <string name="switch_button">Switch</string>
+    <string name="key_hint">Enter key here</string>
+    <string name="report">Plain Text: %1$s\nCipher Text: %2$s\nKey: %3$s</string>
+</resources>
